@@ -71,7 +71,7 @@ public class Teste {
         
         // Instanciando pessoas
 
-        Cliente maken = new Cliente(02101, "Maken da Rosa", "78969647990", 19, julho);
+        Cliente maken = new Cliente(02101, "Maken da Rosa", "15421547881", 19, julho);
 
         ClienteExperimental leonardo = new ClienteExperimental("Leonardo Fulano",
                 "78933245888", 17);
